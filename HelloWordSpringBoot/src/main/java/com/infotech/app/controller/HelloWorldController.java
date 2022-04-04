@@ -20,4 +20,9 @@ public class HelloWorldController {
 	public String bn(){
 		return "bn Hello World!!";
 	}
+	
+	@RequestMapping(value="/mm")
+	public String mm(){
+		return "kskskbn Hello World!!";
+	}
 }
