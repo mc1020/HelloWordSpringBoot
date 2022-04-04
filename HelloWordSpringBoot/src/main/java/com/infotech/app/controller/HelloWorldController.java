@@ -11,8 +11,8 @@ public class HelloWorldController {
 		return "Hello World!!";
 	}
 	
-	@RequestMapping(value="/test")
-	public String test(){
+	@RequestMapping(value="/ss")
+	public String ss(){
 		return "test Hello World!!";
 	}
 }
