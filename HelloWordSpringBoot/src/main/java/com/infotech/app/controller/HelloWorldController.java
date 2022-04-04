@@ -15,4 +15,9 @@ public class HelloWorldController {
 	public String ss(){
 		return "test Hello World!!";
 	}
+	
+	@RequestMapping(value="/bn")
+	public String bn(){
+		return "bn Hello World!!";
+	}
 }
