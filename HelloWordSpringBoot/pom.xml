@@ -40,7 +40,7 @@
 
 			<configuration>
 			    <includeSystemScope>true</includeSystemScope>
-			    <mainClass>java.com.infotech.app.HelloWorldSpringBootApp</mainClass>
+			    <mainClass>src.main.java.com.infotech.app.HelloWorldSpringBootApp</mainClass>
 			</configuration>
 		    </plugin>
 		</plugins>
