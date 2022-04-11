@@ -16,7 +16,7 @@ public class HelloWorldController {
 		return "test Hello World!!";
 	}
 	
-	@RequestMapping(value="/bn")
+	@RequestMapping(value="/bnbn")
 	public String bn(){
 		return "bn Hello World!!";
 	}
